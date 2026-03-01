@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![CampusCreate AI Banner](https://image.pollinations.ai/prompt/futuristic%20dark%20dashboard%20UI%20for%20college%20AI%20app%20called%20CampusCreate%2C%20lime%20green%20accents%2C%20professional%2C%20minimal?width=1200&height=400&nologo=true)
+
 
 [![AMD Slingshot Hackathon](https://img.shields.io/badge/AMD%20Slingshot-Hackathon%202025-ED1C24?style=for-the-badge&logo=amd)](https://)
 [![Powered by Claude](https://img.shields.io/badge/Powered%20by-Claude%20API-7b5ea7?style=for-the-badge)](https://anthropic.com)
@@ -78,9 +78,9 @@ open campuscreate.html   # Mac
 
 ## 🔑 API Setup
 
-### Claude API (Text Generation)
-1. Go to [console.anthropic.com](https://console.anthropic.com)
-2. Sign up → **API Keys** → **Create Key**
+### gemini API (Text Generation)
+1. Go to https://aistudio.google.com/apps
+2. Sign up → **GET API Keys** → **Create Key**
 3. Open `campuscreate.html` in a text editor
 4. Find `YOUR_API_KEY_HERE` and replace with your key
 5. Save and open in browser
@@ -94,7 +94,7 @@ open campuscreate.html   # Mac
 
 ```
 Frontend      →  HTML5, CSS3, Vanilla JavaScript (zero frameworks)
-AI Text       →  Anthropic Claude API (claude-haiku-4-5)
+AI Text       →  Gemini-APi
 AI Images     →  Pollinations AI (free, no key)
 Auth          →  localStorage (no backend)
 Fonts         →  Cabinet Grotesk + Instrument Serif + JetBrains Mono
@@ -148,7 +148,7 @@ This aligns with the **Generative AI for Everyone** theme — making AI not just
 
 ## 🏆 Built For
 
-**AMD Slingshot Hackathon 2025** — *Generative AI for Everyone* track
+**AMD Slingshot Hackathon 2026** — *Generative AI for Everyone* track
 
 > "Open up creation — text, image, audio, video, code — to any student, club, or campus team."
 
@@ -163,7 +163,7 @@ CampusCreate AI directly addresses:
 
 ## 👥 Team
 
-Built with ❤️ for AMD Slingshot Hackathon 2025.
+Built with ❤️ for AMD Slingshot Hackathon 2026.
 
 ---
 
