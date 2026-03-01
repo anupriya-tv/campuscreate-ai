@@ -39,23 +39,6 @@ College life is full of events — fests, hackathons, cultural nights, workshops
 | 📋 **6 Templates** | Pre-filled templates for Fest, Hackathon, Cultural Night, Workshop, Sports, Clubs |
 
 ---
-
-## 🖥️ Screenshots
-
-> **Landing Page**  
-> Full hero, features, testimonials, CTA — looks like a real SaaS product.
-
-> **Sign Up / Login**  
-> Clean auth UI with local storage persistence.
-
-> **Dashboard**  
-> Sidebar navigation, usage stats, recent history, quick-start templates.
-
-> **Generator**  
-> Split layout — form on left, live outputs on right. Bias checker + poster image generation built in.
-
----
-
 ## 🚀 Getting Started
 
 ### Option 1 — Just open locally (fastest)
