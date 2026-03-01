@@ -8,7 +8,7 @@
 
 
 [![AMD Slingshot Hackathon](https://img.shields.io/badge/AMD%20Slingshot-Hackathon%202025-ED1C24?style=for-the-badge&logo=amd)](https://)
-[![Powered by Claude](https://img.shields.io/badge/Powered%20by-Claude%20API-7b5ea7?style=for-the-badge)](https://anthropic.com)
+[![Powered by gemini](https://aistudio.google.com/api-keys?project=gen-lang-client-0736831853)
 [![Image Gen](https://img.shields.io/badge/Images-Pollinations%20AI-c8f135?style=for-the-badge)](https://pollinations.ai)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
